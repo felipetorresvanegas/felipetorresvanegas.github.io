@@ -53,8 +53,9 @@ Specifically, I address the following questions:
 
 __The Landscape Genetic Signature of Pollination by Trapliners__
 <br>
-![Differentiation](/assets/images/chapter_1.png){: .align-right}
 My research suggests that patterns of contemporary pollen-mediated gene flow in the tropical herb _Heliconia tortuosa_ are consistent with the foraging strategy of its traplining hummingbird pollinators. Estimates of pollen pool differentiation among neighbouring maternal plants were about two times higher than estimates of pollen pool differentiation among sites. I argue that this hierarchical pattern of pollen pool differentiation is a landscape genetic signature of the traplining foraging strategy. Although _H. tortuosa_ is visited by multiple species of hummingbirds, my research suggests that this pollination network has high cryptic specialization, where successful pollination largely comes from the few traplining hummingbird species. This cryptic reduction in the number of realized pollinators potentially increases the vulnerability of pollination success to the decline of populations of traplining hummingbirds, which have been shown to be sensitive to forest fragmentation.
+
+![Differentiation](/assets/images/chapter_1.png){: .align-center}
 
 ## Effects of Deforestation on Plant Mating Quality
 
