@@ -1,0 +1,10 @@
+# the masthead
+main:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "CV"
+    url: /assets/docs/Felipe_Torres-Vanegas_CV.pdf

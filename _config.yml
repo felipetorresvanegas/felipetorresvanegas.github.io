@@ -1,10 +1,10 @@
-# Configs for pwills.com
+# Configs for felipetorresvanegas.github.io
 
-title: "pwills.com"
-name: "pwills.com"
-email: peter@pwills.com
-url: "http://www.pwills.com"
-repository: "peterewills/peterewills.github.io"
+title: "felipetorresvanegas.github.io"
+name: "Felipe Torres-Vanegas"
+email: luisfelipe.torres@mail.utoronto.ca
+url: ""
+repository: "felipetorresvanegas.github.io"
 
 include:
   - _pages
@@ -17,7 +17,7 @@ exclude:
   - "*ltximg*"
 
 plugins:
-  - jekyll-feed
+#  - jekyll-feed
   - jekyll-remote-theme
   - jekyll-include-cache
 
@@ -26,33 +26,41 @@ markdown: kramdown
 theme: "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dirt"
-  
+
 # settings for author profile
 author:
-  name   : "Peter Wills"
+  name   : "Felipe Torres-Vanegas"
   avatar : "/assets/images/headshot.jpg"
-  bio    : "I enjoy writing about things I'm interested in - mostly computing, math, physics, and software engineering."
-  location: "San Francisco, CA"
-  github : peterewills
-  linkedin: peterewills
-  email  : peter@pwills.com
-
+  bio    : "PhD Candidate<br>Department of Ecology & Evolutionary Biology<br>University of Toronto"
+  location: "Toronto, Canada"
+  github : felipetorresvanegas
+  email  : luisfelipe.torres@mail.utoronto.ca
+  links:
+    - label: "Scholar"
+      icon: "fab fa-fw fa-google"
+      url: https://scholar.google.com/citations?user=imtwcOMAAAAJ&hl=es
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0003-3093-3701"
+    - label: "researchgate"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/Felipe_Torres-Vanegas"
 
 # # comments by disqus
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "pwills-com"
+#comments:
+#  provider: "disqus"
+#  disqus:
+#    shortname: ""
 
-analytics:
-  provider: "google"
-  google:
-    tracking_id: "UA-116208936-1"
+#analytics:
+#  provider: "google"
+#  google:
+#    tracking_id: ""
 
 
 # pagination for blog page
-paginate: 10 # number of posts to show
-paginate_path: /page:num/
+#paginate: 10 # number of posts to show
+#paginate_path: /page:num/
 
 # default YAML front matter
 defaults:
@@ -66,25 +74,3 @@ defaults:
       class: wide
       title: " "
       title_separator: "|"
-  # posts
-  - scope:
-      type: posts
-    values:
-      toc: true
-      toc_label: "Contents"
-      read_time: false
-      comments: true
-  # portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      author_profile: false
-      excerpt: ""
-      sidebar:
-        nav: "portfolio"
-
-# collections
-collections:
-  portfolio:
-    output: true
