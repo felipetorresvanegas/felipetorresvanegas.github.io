@@ -53,10 +53,10 @@ author:
 #  disqus:
 #    shortname: ""
 
-#analytics:
-#  provider: "google"
-#  google:
-#    tracking_id: ""
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-187651831-1"
 
 
 # pagination for blog page
