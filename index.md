@@ -37,8 +37,7 @@ feature_row:
 I am a PhD candidate in the [Department of Ecology and Evolutionary Biology][1]
 at the [University of Toronto][2]. I work in the [Spatial Ecology and Landscape Genetics Lab][3]
 led by Professor [Helene H. Wagner][4]. Broadly, I am interested in understanding the
-ecological and evolutionary mechanisms that generate and maintain biodiversity
-through space and time. I rely on field surveys, a variety of molecular genetic
+ecological and evolutionary mechanisms that generate and maintain biodiversity. I rely on field surveys, a variety of molecular genetic
 techniques, and a broad range of statistical methods to address questions that
 integrate pollination ecology, plant mating systems, landscape genetics, and
 conservation biology.
