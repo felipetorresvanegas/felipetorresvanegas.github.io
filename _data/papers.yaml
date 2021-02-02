@@ -6,8 +6,8 @@
   year: 2021
   volume: Accepted
 #  pages: 1206
-#  openaccess: true
-#  pdf-url: https://www.frontiersin.org/articles/10.3389/fgene.2019.01206/full
+  openaccess: false
+  pdf-url: https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745.13594
   data-url: https://datadryad.org/stash/dataset/doi:10.5061/dryad.rfj6q578w
   github: https://github.com/felipetorresvanegas/pollinator_community
 
