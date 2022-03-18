@@ -1,0 +1,10 @@
+<ol reversed="reversed">
+  {% for paper in site.data.educational %}
+  <li>
+      <p>
+        {{ paper.authors | markdownify | | remove: "<p>" | remove: "</p>"}} {{ paper.year }}. {{ paper.title | markdownify | | remove: "<p>" | remove: "</p>"}} pp. {{ paper.pages }}. {{paper.publisher}}.
+        {% if paper.pdf-url %}<a href="{{ paper.pdf-url }}" target="_blank"><i class="far fa-file-pdf"></i></a>{% endif %}
+      </p>
+  </li>
+  {% endfor %}
+</ol>
