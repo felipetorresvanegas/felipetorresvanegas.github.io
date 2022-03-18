@@ -28,7 +28,7 @@ feature_row:
 #    btn_class: "btn--primary"
   - image_path: /assets/images/heliconia_flower.jpg
     alt: ""
-    title: "Pollinator Behaviour Constraints on Plant Mating Systems"
+    title: "Pollinator Behaviour and Plant Mating Systems"
     excerpt: ""
 #    url: ""
 #    btn_label: "Read More"
@@ -75,7 +75,7 @@ My research suggests that deforestation influences plant mating quality through 
 
 ![Path Diagram](/assets/images/chapter_2.jpg)
 
-## Pollinator Behaviour Constraints on Plant Mating Systems
+## Pollinator Behaviour and Plant Mating Systems
 
 __Background__
 <br>
