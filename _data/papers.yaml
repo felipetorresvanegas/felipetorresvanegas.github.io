@@ -1,0 +1,25 @@
+---
+- id: Torres-Vanegas_2021
+  authors: __Felipe Torres-Vanegas__, Adam S. Hadley, Urs G. Kormann, F. Andrew Jones, Matthew G. Betts, Helene H. Wagner.
+  title: "Tropical deforestation reduces plant mating quality by shifting the functional composition of pollinator communities."
+  journal: Journal of Ecology
+  year: 2021
+  volume: 109
+  pages: 1730-1746
+  openaccess: false
+  pdf-url: https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745.13594
+  data-url: https://datadryad.org/stash/dataset/doi:10.5061/dryad.rfj6q578w
+  github: https://github.com/felipetorresvanegas/pollinator_community
+
+- id: Torres-Vanegas_2019
+  authors: __Felipe Torres-Vanegas__, Adam S. Hadley, Urs G. Kormann, F. Andrew Jones, Matthew G. Betts, Helene H. Wagner.
+  title: "The Landscape Genetic Signature of Pollination by Trapliners: Evidence From the Tropical Herb, _Heliconia tortuosa_."
+  journal: Frontiers in Genetics
+  year: 2019
+  volume: 10
+  pages: 1206
+  openaccess: true
+  pdf-url: https://www.frontiersin.org/articles/10.3389/fgene.2019.01206/full
+  data-url: https://datadryad.org/stash/dataset/doi:10.5061/dryad.tmpg4f4tw
+  github: https://github.com/felipetorresvanegas/genetic_signature
+---
