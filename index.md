@@ -37,17 +37,15 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-I am a PhD candidate in the [Department of Ecology and Evolutionary Biology][1]
-at the [University of Toronto][2]. I work in the [Spatial Ecology and Landscape Genetics Lab][3] led by Professor [Helene H. Wagner][4]. Broadly, I am interested in understanding the ecological and evolutionary mechanisms that generate and maintain biodiversity.
+I am a PhD candidate in the Department of Ecology and Evolutionary Biology
+at the University of Toronto. I work in the [Spatial Ecology and Landscape Genetics Lab][3] led by Professor [Helene H. Wagner][4]. Broadly, I am interested in understanding the ecological and evolutionary mechanisms that generate and maintain biodiversity.
  <br>
  <br>
-My research capitalizes on plant-pollinator interactions to evaluate the interplay of ecology and evolution through the process of pollination. The overarching goal of my research is to understand the role of the  process of pollination as a driver of the ecology and evolution of plant mating systems. I combine landscape-scale observational field surveys, a variety of techniques of molecular biology, and a breadth of methods in statistical analysis to address questions that integrate pollination ecology, plant mating systems, and conservation biology.
+My research capitalizes on plant-pollinator interactions to evaluate the interplay of ecology and evolution through the process of pollination. I address questions that integrate pollination ecology, plant mating systems, and conservation biology. I combine landscape-scale observational field surveys, a variety of techniques of molecular biology, and a breadth of methods in statistical analysis.
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
-[1]: https://eeb.utoronto.ca
-[2]: https://www.utoronto.ca
 [3]: http://sites.utm.utoronto.ca/wagnerlab/
 [4]: https://scholar.google.ca/citations?user=tI-9Q9kAAAAJ&hl=en
