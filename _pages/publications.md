@@ -7,7 +7,7 @@ header:
   caption: "Story of Flowers [__Azuma Makoto__](https://azumamakoto.com/1669/)"
 permalink: /publications/
 excerpt: "Ecology and Evolution of Plant-Pollinator Interactions"
-toc: true
+toc: false
 layout: single
 classes: wide
 ---
