@@ -16,23 +16,23 @@ feature_row:
     alt: ""
     title: "Genetic Consequences of Pollination Mode"
     excerpt: ""
-    url: "https://felipetorresvanegas.github.io/research/#genetic-consequences-of-pollination-mode"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+#   url: ""
+#   btn_label: "Read More"
+#    btn_class: "btn--primary"
   - image_path: /assets/images/deforestation.jpg
     alt: ""
     title: "Effects of Deforestation on Plant Mating Quality"
     excerpt: ""
-    url: "https://felipetorresvanegas.github.io/research/#effects-of-deforestation-on-plant-mating"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+#   url: ""
+#   btn_label: "Read More"
+#   btn_class: "btn--primary"
   - image_path: /assets/images/heliconia_flower.jpg
     alt: ""
     title: "Pollinator Behaviour and Plant Mating Systems"
     excerpt: ""
-    url: "https://felipetorresvanegas.github.io/research/#pollinator-behaviour-and-plant-mating-systems"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+#   url: ""
+#   btn_label: "Read More"
+#   btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
