@@ -9,30 +9,30 @@ header:
   caption: "Story of Flowers [__Azuma Makoto__](https://azumamakoto.com/1669/)"
 permalink: /research/
 excerpt: "Ecology and Evolution of Plant-Pollinator Interactions"
-toc: true
+toc: false
 
 feature_row:
   - image_path: assets/images/visa.jpg
     alt: ""
     title: "Genetic Consequences of Pollination Mode"
     excerpt: ""
-#    url: ""
-#    btn_label: "Read More"
-#    btn_class: "btn--primary"
+    url: "http://127.0.0.1:4000/research/#genetic-consequences-of-pollination-mode"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/deforestation.jpg
     alt: ""
     title: "Effects of Deforestation on Plant Mating Quality"
     excerpt: ""
-#    url: ""
-#    btn_label: "Read More"
-#    btn_class: "btn--primary"
+    url: "http://127.0.0.1:4000/research/#effects-of-deforestation-on-plant-mating"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/heliconia_flower.jpg
     alt: ""
     title: "Pollinator Behaviour and Plant Mating Systems"
     excerpt: ""
-#    url: ""
-#    btn_label: "Read More"
-#    btn_class: "btn--primary"
+    url: "http://127.0.0.1:4000/research/#pollinator-behaviour-and-plant-mating-systems"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
