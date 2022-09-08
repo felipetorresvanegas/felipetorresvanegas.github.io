@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: felipetorresvanegas.github.io
 name: Felipe Torres-Vanegas
-email: luisfelipe.torres@mail.utoronto.ca
+email: felipe.torres@biol.lu.se
 url: https://felipetorresvanegas.github.io
 repository: felipetorresvanegas.github.io
 # description: >- # this means to ignore newlines until "baseurl:"
@@ -63,8 +63,8 @@ plugins:
 author:
   name   : "Felipe Torres-Vanegas"
   avatar : "/assets/images/headshot.jpg"
-  bio    : "PhD Candidate<br>Department of Ecology & Evolutionary Biology<br>University of Toronto"
-  location: "Toronto, Canada"
+  bio    : "Postdoctoral Researcher<br>Department of Biology<br>Lund University"
+  location: "Lund, Sweden"
   github : felipetorresvanegas
   email  : luisfelipe.torres@mail.utoronto.ca
   orcid: "https://orcid.org/0000-0003-3093-3701"
