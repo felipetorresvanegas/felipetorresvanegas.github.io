@@ -91,4 +91,4 @@ __Foraging Tactics by Pollinators Have Divergent Consequences for Plant Mating S
 <br>
 My research suggests that pollinators may adopt a combination of foraging tactics that likely depend on the ecological context. Importantly, the particular foraging tactics adopted by pollinators have divergent consequences for multiple paternity and near-neighbour mating. This finding highlights the relevance of the dynamics and complexities of pollinator foraging behaviour as a driver of the ecology and evolution of plant mating systems.
 
-![Graph](/assets/images/chapter_3a.jpg)
+![Graph](/assets/images/chapter_3.jpg)
