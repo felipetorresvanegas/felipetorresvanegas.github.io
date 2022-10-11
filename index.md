@@ -40,11 +40,11 @@ feature_row:
 Broadly, I am interested in understanding the ecological and evolutionary mechanisms that generate and maintain biodiversity. My research capitalizes on plant-pollinator interactions to evaluate the interplay of ecology and evolution through the process of pollination. I address questions that integrate pollination ecology, plant mating systems, and conservation biology. I combine landscape-scale observational field surveys, a variety of techniques of molecular biology, and a breadth of methods in statistical analysis.
 <br>
 <br>
-Currently, I am a postdoctoral researcher in the Department of Biology at Lund University. I am part of the [Speciation, Adaptation and Coevolution Research Group][2], where I work closely with [Øystein Opedal][1] and [Magne Friberg][5].
+Currently, I am a postdoctoral researcher in the Department of Biology at Lund University. I am part of the [Speciation, Adaptation and Coevolution Research Group][2] and work most closely with [Øystein Opedal][1].
 <br>
 <br>
 I completed my PhD in the Department of Ecology and Evolutionary Biology
-at the University of Toronto. I worked in the [Spatial Ecology and Landscape Genetics Lab][3] led by Professor [Helene H. Wagner][4]. My PhD research focused on understanding the ecological consequences of hummingbird pollination for plant mating systems.
+at the University of Toronto. I worked in the [Spatial Ecology and Landscape Genetics Lab][3] led by [Helene H. Wagner][4]. My PhD research focused on understanding the ecological consequences of hummingbird pollination for plant mating systems.
 
 {% include feature_row id="intro" type="center" %}
 
@@ -54,4 +54,3 @@ at the University of Toronto. I worked in the [Spatial Ecology and Landscape Gen
 [2]: https://portal.research.lu.se/en/organisations/speciation-adaptation-and-coevolution
 [3]: http://sites.utm.utoronto.ca/wagnerlab/
 [4]: https://scholar.google.ca/citations?user=tI-9Q9kAAAAJ&hl=en
-[5]: https://portal.research.lu.se/en/persons/magne-friberg
