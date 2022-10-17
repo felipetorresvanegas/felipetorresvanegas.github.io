@@ -1,4 +1,16 @@
 ---
+- id: Torres-Vanegas_2022
+  authors: __Felipe Torres-Vanegas__, Adam S. Hadley, Urs G. Kormann, F. Andrew Jones, Matthew G. Betts, Helene H. Wagner.
+  title: "Pollinator foraging tactics have divergent consequences for the mating system of a tropical plant."
+  journal: New Phytologist
+  year: 2022
+  volume:
+  pages:
+  openaccess: false
+  pdf-url:
+  data-url:
+  github: https://github.com/felipetorresvanegas/pollinator_foraging_tactics
+
 - id: Torres-Vanegas_2021
   authors: __Felipe Torres-Vanegas__, Adam S. Hadley, Urs G. Kormann, F. Andrew Jones, Matthew G. Betts, Helene H. Wagner.
   title: "Tropical deforestation reduces plant mating quality by shifting the functional composition of pollinator communities."
