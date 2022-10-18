@@ -8,7 +8,7 @@
   pages:
   openaccess: false
   pdf-url:
-  data-url:
+  data-url: https://datadryad.org/stash/dataset/doi:10.5061/dryad.s1rn8pkc7
   github: https://github.com/felipetorresvanegas/pollinator_foraging_tactics
 
 - id: Torres-Vanegas_2021
