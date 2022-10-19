@@ -37,7 +37,7 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-Broadly, I am interested in understanding the ecological and evolutionary mechanisms that generate and maintain biodiversity. My research capitalizes on plant-pollinator interactions to evaluate the interplay of ecology and evolution through the process of pollination. I address questions that integrate pollination ecology, plant mating systems, and conservation biology. I combine landscape-scale observational field surveys, a variety of techniques of molecular biology, and a breadth of methods in statistical analysis.
+I am interested in understanding the ecological and evolutionary mechanisms that generate and maintain biodiversity. My research capitalizes on plant-pollinator interactions to evaluate the interplay of ecology and evolution through the process of pollination. I address questions that integrate pollination ecology, plant mating systems, and conservation biology. I combine landscape-scale observational field surveys, a variety of techniques of molecular biology, and a breadth of methods in statistical analysis.
 <br>
 <br>
 Currently, I am a postdoctoral researcher in the Department of Biology at Lund University. I am part of the [Speciation, Adaptation and Coevolution Research Group][2] and work most closely with [Øystein Opedal][1].
