@@ -78,9 +78,9 @@ author:
     - label: "researchgate"
       icon: "fab fa-researchgate"
       url: "https://www.researchgate.net/profile/Felipe_Torres-Vanegas"
-    - # label: "Instagram"
-      # icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Strava"
+      icon: "fab fa-strava"
+      url: "https://www.strava.com/athletes/28814938"
 
 # footer:
   # links:
