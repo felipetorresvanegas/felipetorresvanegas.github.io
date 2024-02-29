@@ -33,6 +33,13 @@ feature_row:
 #   url: ""
 #   btn_label: "Read More"
 #   btn_class: "btn--primary"
+  - image_path: /assets/images/viscaria.jpg
+    alt: ""
+    title: "Phenotypic Selection on Floral Traits"
+    excerpt: ""
+    #   url: ""
+    #   btn_label: "Read More"
+    #   btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
