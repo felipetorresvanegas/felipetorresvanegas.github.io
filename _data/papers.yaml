@@ -1,4 +1,16 @@
 ---
+-  id: Torres-Vanegas_2024
+   authors: __Felipe Torres-Vanegas__, Vanda Temesvári, Laura S. Hildesheim, Cristina Rodríguez-Otero, Vilhelmina Müller, Easger Aukema, Magne Friberg, Øystein H. Opedal.
+   title: "Linking divergence in phenotypic selection on floral traits to divergence in local pollinator assemblages in a pollination-generalized plant"
+   journal: Journal of Evolutionary Biology
+   year: Accepted
+  # volume: 109
+  # pages: 1730-1746
+  # openaccess: false
+  # pdf-url: https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745.13594
+  # data-url: https://datadryad.org/stash/dataset/doi:10.5061/dryad.rfj6q578w
+  # github: https://github.com/felipetorresvanegas/pollinator_community
+
 - id: Torres-Vanegas_2022
   authors: __Felipe Torres-Vanegas__, Adam S. Hadley, Urs G. Kormann, F. Andrew Jones, Matthew G. Betts, Helene H. Wagner.
   title: "Pollinator foraging tactics have divergent consequences for the mating system of a tropical plant."
