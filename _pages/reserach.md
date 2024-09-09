@@ -42,7 +42,9 @@ feature_row:
     #   btn_class: "btn--primary"
 ---
 
-{% include feature_row %}
+{% include feature_row id="intro" type="center" %}
+
+
 
 ## Genetic Consequences of Pollination Mode
 
