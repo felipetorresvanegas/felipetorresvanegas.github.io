@@ -5,11 +5,11 @@
    journal: Journal of Evolutionary Biology
    year: 2024
    volume: Accepted
-  # pages: 1730-1746
-  # openaccess: false
-  # pdf-url: https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745.13594
-  # data-url: https://datadryad.org/stash/dataset/doi:10.5061/dryad.rfj6q578w
-  # github: https://github.com/felipetorresvanegas/pollinator_community
+   pages: voae115
+   openaccess: true
+   pdf-url: https://academic.oup.com/jeb/advance-article/doi/10.1093/jeb/voae115/7759590
+   data-url: https://datadryad.org/stash/dataset/doi:10.5061/dryad.t1g1jwtb5
+   github: https://github.com/felipetorresvanegas/phenotypic_selection.git
 
 - id: Torres-Vanegas_2022
   authors: __Felipe Torres-Vanegas__, Adam S. Hadley, Urs G. Kormann, F. Andrew Jones, Matthew G. Betts, Helene H. Wagner.
