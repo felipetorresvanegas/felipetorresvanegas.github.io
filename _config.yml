@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Felipe Torres-Vanegas"
   avatar : "/assets/images/headshot.jpg"
-  bio    : "Postdoctoral Researcher<br>Department of Biology<br>Lund University"
+  bio    : "Postdoctoral Researcher<br>Division of Biodiversity and Evolution<br>Department of Biology<br>Lund University"
   location: "Lund, Sweden"
   github : felipetorresvanegas
   email  : felipe.torres@biol.lu.se
