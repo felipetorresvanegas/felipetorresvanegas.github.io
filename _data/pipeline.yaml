@@ -11,11 +11,11 @@
   # data-url: https://datadryad.org/stash/dataset/doi:10.5061/dryad.rfj6q578w
   # github: https://github.com/felipetorresvanegas/pollinator_community
 
-- id: Torres-Vanegas_2023
-  authors: Øystein H. Opedal, Bastien Serre, Vanda Temesvári, Yedra García, Magne Friberg, __Felipe Torres-Vanegas__.
-  title: "Effects of nectar robbing on floral evolution in a pollination-generalized plant."
-  journal: In Review.
-  year: 2024
+# - id: Torres-Vanegas_2023
+  # authors: Øystein H. Opedal, Bastien Serre, Vanda Temesvári, Yedra García, Magne Friberg, __Felipe Torres-Vanegas__.
+  # title: "Effects of nectar robbing on floral evolution in a pollination-generalized plant."
+  #journal: In Review.
+  # year: 2024
   # volume: 109
   # pages: 1730-1746
   # openaccess: false
