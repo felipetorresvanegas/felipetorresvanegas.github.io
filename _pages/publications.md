@@ -13,7 +13,7 @@ classes: wide
 ---
 ## In The Pipeline
 
-{% include pipeline.html %}
+# {% include pipeline.html %}
 
 ## Peer-Reviewed Publications
 
