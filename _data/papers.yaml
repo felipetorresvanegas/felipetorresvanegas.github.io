@@ -1,4 +1,16 @@
 ---
+- id: Torres-Vanegas_2026B
+  authors: __Felipe Torres-Vanegas__, Vanda Temesvári, Yedra García, Magne Friberg, Øystein H. Opedal.
+  title: "Pollinator assemblage composition predicts trait divergence in a pollination-generalized plant."
+  journal: Evolution.
+  year: 2025
+  volume: Accepted
+  # pages: 1730-1746
+  openaccess: true
+  # pdf-url:
+  # data-url:
+  # github: 
+
 -  id: Torres-Vanegas_2026A
    authors: Kathryn E.C. Davis, Emil Sloth Thomassen, Helene H. Wagner, Urs G. Kormann, Adam S. Hadley, Matthew G. Betts, __Felipe Torres-Vanegas__.
    title: "Incorporating pollinator movement into connectivity models predicts pollen-mediated gene flow and highlights the importance of regenerating forests in tropical landscapes."
