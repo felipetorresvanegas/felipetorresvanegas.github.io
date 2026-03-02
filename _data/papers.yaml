@@ -7,9 +7,9 @@
   volume: Accepted
   # pages: 1730-1746
   openaccess: true
-  # pdf-url:
-  # data-url:
-  # github:
+  pdf-url: https://doi.org/10.1093/evolut/qpag030
+  data-url: https://doi.org/10.5061/dryad.xwdbrv1tf
+  github: https://github.com/felipetorresvanegas/Flower_Pollinator_Divergence
 
 -  id: Torres-Vanegas_2026A
    authors: Kathryn E.C. Davis, Emil Sloth Thomassen, Helene H. Wagner, Urs G. Kormann, Adam S. Hadley, Matthew G. Betts, __Felipe Torres-Vanegas__.
@@ -20,7 +20,7 @@
    # pages:
    openaccess: true
    pdf-url: https://link.springer.com/article/10.1007/s10980-026-02309-y
-   # data-url:
+   data-url: https://doi.org/10.5061/dryad.3ffbg7b08
    # github:
 
 -  id: Torres-Vanegas_2024
