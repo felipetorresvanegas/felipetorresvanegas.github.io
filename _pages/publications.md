@@ -11,6 +11,10 @@ toc: false
 layout: single
 classes: wide
 ---
+## In The Pipeline
+
+{% include pipeline.html %}
+
 ## Peer-Reviewed Publications
 
 {% include papers.html %}
